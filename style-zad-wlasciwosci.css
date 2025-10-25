@@ -1,0 +1,108 @@
+.supertekst {
+    font-size: 60px;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    cursor: default;
+}
+
+html {
+    font-family: "Playfair Display", serif;
+}
+
+.signature {
+    font-size: 10px;
+}
+
+.mexico {
+    display: block;
+    width: 500px;
+    margin: 10px auto;
+}
+
+.kursywa {
+    font-style: italic;
+}
+
+.pon {
+    font-weight: bold;
+    color: red;
+}
+
+.wt {
+    text-decoration: underline;
+    color: rebeccapurple;
+}
+
+.sr {
+    font-size: smaller;
+    color: green;
+}
+
+.czw {
+    text-align: center;
+    color: blue;
+}
+
+.pt {
+    font-style: oblique;
+    color: orange;
+}
+
+.zad6 {
+    text-align: center;
+}
+
+.zad7 {
+    width: 500px;
+    height: 250px;
+    background-color: green;
+    margin: 50px auto;
+}
+
+.kwadrat {
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 5px;
+}
+
+.zad8 {
+    margin: auto;
+    width: fit-content;
+}
+
+.zad10 {
+    border-style: dotted;
+    width: 758px;
+}
+
+.first,
+.second {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: 0;
+}
+
+.first {
+    background-color: black;
+}
+
+.second {
+    background-color: white;
+}
+
+body {
+    border-color: blue;
+    border-width: 20px;
+    border-style: solid;
+    margin: 0
+}
